@@ -130,7 +130,7 @@ output application/json
 [
   {
     id: "1000001",
-    name: "ABC GmbH",
+    name: "ABC GmbH 2",
     address: {
       street: "Mainstraße 1",
       city: "Berlin",
